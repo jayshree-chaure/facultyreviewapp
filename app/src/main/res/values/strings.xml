@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Faculty Review </string>
+    <string-array name="numbers">
+        <item>choose</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="spinner_id">
+        <item>subject_skill</item>
+        <item>doubts</item>
+        <item>presentation</item>
+        <item>punctuality</item>
+        <item>comm</item>
+    </string-array>
+
+
+    <string name="nameerror">Enter a valid name</string>
+
+    <string name="iderror">Enter a valid ID</string>
+    <string name="Classerror">Enter a valid Info</string>
+
+
+</resources>

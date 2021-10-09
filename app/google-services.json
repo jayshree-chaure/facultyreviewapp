@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671963977160",
+    "firebase_url": "https://facultyreview.firebaseio.com",
+    "project_id": "facultyreview",
+    "storage_bucket": "facultyreview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671963977160:android:08476eb70d642820ec9cfd",
+        "android_client_info": {
+          "package_name": "com.example.facultyreviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671963977160-osod3fdeb5ub1q77n9gnlhkenpg5nu92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMNxFtWOZDE1xD8CXnGk-Vqe4DiASoO-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671963977160-osod3fdeb5ub1q77n9gnlhkenpg5nu92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
